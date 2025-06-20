@@ -1,2 +1,2 @@
 # hamishokeefe.github.io
-Personal Blog
+Personal Webpage
